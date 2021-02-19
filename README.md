@@ -24,6 +24,9 @@ Print out function output from ​points​ ​(x, y): (0,0), (100, 100), (15,10
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+To install the dependencies, you can run:
+
+### `yarn`
 
 In the project directory, you can run:
 
