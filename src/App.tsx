@@ -9,7 +9,7 @@ import './tailwind.output.css'
 
 const App = () => {
   return (
-    <div className="h-screen flex justify-center bg-gray-100">
+    <div className="h-screen flex justify-center p-2 bg-gray-100">
       <div>
         <AvailableStations />
         <FindStationForm />
