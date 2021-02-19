@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/nordcloud-app/static/css/main.1c7d870a.chunk.css",
-    "main.js": "/nordcloud-app/static/js/main.754cea00.chunk.js",
-    "main.js.map": "/nordcloud-app/static/js/main.754cea00.chunk.js.map",
+    "main.js": "/nordcloud-app/static/js/main.c67cdda2.chunk.js",
+    "main.js.map": "/nordcloud-app/static/js/main.c67cdda2.chunk.js.map",
     "runtime-main.js": "/nordcloud-app/static/js/runtime-main.fd741d2a.js",
     "runtime-main.js.map": "/nordcloud-app/static/js/runtime-main.fd741d2a.js.map",
     "static/js/2.9cfcb09d.chunk.js": "/nordcloud-app/static/js/2.9cfcb09d.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fd741d2a.js",
     "static/js/2.9cfcb09d.chunk.js",
     "static/css/main.1c7d870a.chunk.css",
-    "static/js/main.754cea00.chunk.js"
+    "static/js/main.c67cdda2.chunk.js"
   ]
 }
