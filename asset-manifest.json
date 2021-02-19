@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/%7BGithub-repo-name%7D/static/css/main.1c7d870a.chunk.css",
-    "main.js": "/%7BGithub-repo-name%7D/static/js/main.fed120da.chunk.js",
-    "main.js.map": "/%7BGithub-repo-name%7D/static/js/main.fed120da.chunk.js.map",
-    "runtime-main.js": "/%7BGithub-repo-name%7D/static/js/runtime-main.65af88ae.js",
-    "runtime-main.js.map": "/%7BGithub-repo-name%7D/static/js/runtime-main.65af88ae.js.map",
-    "static/js/2.2699fed0.chunk.js": "/%7BGithub-repo-name%7D/static/js/2.2699fed0.chunk.js",
-    "static/js/2.2699fed0.chunk.js.map": "/%7BGithub-repo-name%7D/static/js/2.2699fed0.chunk.js.map",
-    "static/js/3.c7e82ce3.chunk.js": "/%7BGithub-repo-name%7D/static/js/3.c7e82ce3.chunk.js",
-    "static/js/3.c7e82ce3.chunk.js.map": "/%7BGithub-repo-name%7D/static/js/3.c7e82ce3.chunk.js.map",
-    "index.html": "/%7BGithub-repo-name%7D/index.html",
-    "static/css/main.1c7d870a.chunk.css.map": "/%7BGithub-repo-name%7D/static/css/main.1c7d870a.chunk.css.map",
-    "static/js/2.2699fed0.chunk.js.LICENSE.txt": "/%7BGithub-repo-name%7D/static/js/2.2699fed0.chunk.js.LICENSE.txt"
+    "main.css": "/nordcloud-app/static/css/main.1c7d870a.chunk.css",
+    "main.js": "/nordcloud-app/static/js/main.754cea00.chunk.js",
+    "main.js.map": "/nordcloud-app/static/js/main.754cea00.chunk.js.map",
+    "runtime-main.js": "/nordcloud-app/static/js/runtime-main.fd741d2a.js",
+    "runtime-main.js.map": "/nordcloud-app/static/js/runtime-main.fd741d2a.js.map",
+    "static/js/2.9cfcb09d.chunk.js": "/nordcloud-app/static/js/2.9cfcb09d.chunk.js",
+    "static/js/2.9cfcb09d.chunk.js.map": "/nordcloud-app/static/js/2.9cfcb09d.chunk.js.map",
+    "static/js/3.c7e82ce3.chunk.js": "/nordcloud-app/static/js/3.c7e82ce3.chunk.js",
+    "static/js/3.c7e82ce3.chunk.js.map": "/nordcloud-app/static/js/3.c7e82ce3.chunk.js.map",
+    "index.html": "/nordcloud-app/index.html",
+    "static/css/main.1c7d870a.chunk.css.map": "/nordcloud-app/static/css/main.1c7d870a.chunk.css.map",
+    "static/js/2.9cfcb09d.chunk.js.LICENSE.txt": "/nordcloud-app/static/js/2.9cfcb09d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.65af88ae.js",
-    "static/js/2.2699fed0.chunk.js",
+    "static/js/runtime-main.fd741d2a.js",
+    "static/js/2.9cfcb09d.chunk.js",
     "static/css/main.1c7d870a.chunk.css",
-    "static/js/main.fed120da.chunk.js"
+    "static/js/main.754cea00.chunk.js"
   ]
 }
