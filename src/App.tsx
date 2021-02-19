@@ -1,26 +1,26 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import 'react-app-polyfill/ie11'
+import React from 'react'
 
-function App() {
+import AvailableStations from './components/AvailableStations'
+import FindStationForm from './components/Form'
+import GithubLink from './components/GithubLink'
+import SampleResult from './components/SampleResult'
+import './tailwind.output.css'
+
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="h-screen flex justify-center bg-gray-100">
+      <div>
+        <AvailableStations />
+        <FindStationForm />
+        <SampleResult x={'0'} y={'0'} />
+        <SampleResult x={'100'} y={'100'} />
+        <SampleResult x={'15'} y={'10'} />
+        <SampleResult x={'18'} y={'18'} />
+        <GithubLink />
+      </div>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
